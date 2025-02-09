@@ -1,0 +1,84 @@
+{
+  "journal_entries": [
+    {
+      "date": "2025-01-04",
+      "content": "Today was intense. Three meetings back-to-back about the Q1 roadmap. I feel like I'm constantly context-switching between team management and actual coding. Sarah's doing great leading the frontend team, but John's still struggling with deadlines. Need to find a better way to support him without micromanaging."
+    },
+    {
+      "date": "2025-01-05",
+      "content": "Woke up feeling anxious about the production bug we found yesterday. Spent most of my morning debugging with the team. Finally fixed it around 2 PM, but missed lunch in the process. At least the client was understanding. Note to self: can't skip meals like this, no matter how urgent things seem."
+    },
+    {
+      "date": "2025-01-06",
+      "content": "Better day. Had my one-on-ones with the team. Maria mentioned feeling overwhelmed – I see myself in her sometimes. Suggested some time management techniques that helped me early in my career. Still battling imposter syndrome sometimes, especially in board meetings, but trying to remind myself I earned this position."
+    },
+    {
+      "date": "2025-01-07",
+      "content": "Exhausted. The new project launch is in two weeks and everyone's stressed. Caught myself being short with Dan during the stand-up – need to apologize tomorrow. Sometimes I wonder if I'm really cut out for management. Missing the days when I could just code."
+    },
+    {
+      "date": "2025-01-08",
+      "content": "Mom called during lunch, worried I'm working too hard. Maybe she's right? My sleep schedule is completely off, and I can't remember the last time I went to the gym. But there's just so much to do. The junior devs need guidance, and I can't let the team down."
+    },
+    {
+      "date": "2025-01-09",
+      "content": "Small win today! The automated testing pipeline we implemented last month caught a major bug before deployment. The team's morale got a real boost. Had a good laugh with everyone during our virtual coffee chat. These moments remind me why I love my job."
+    },
+    {
+      "date": "2025-01-10",
+      "content": "Feeling overwhelmed. The CEO wants us to add new features to the project, but we're already stretched thin. Spent two hours crafting an email explaining why we need to adjust the timeline. My hands were shaking when I hit send. Why is it still so hard to push back?"
+    },
+    {
+      "date": "2025-01-11",
+      "content": "Saturday, but worked most of the day. Partner's frustrated about canceled dinner plans again. They're right – I need better boundaries. But how do you set boundaries when everything feels urgent? At least I got through most of my email backlog."
+    },
+    {
+      "date": "2025-01-12",
+      "content": "Took a real day off! Went hiking, first time in months. The fresh air felt amazing. Realized how much I've been neglecting my own well-being. Planning to block off lunch hours in my calendar starting next week – no more working lunches."
+    },
+    {
+      "date": "2025-01-13",
+      "content": "Monday hit hard. Five hours of meetings, two escalations, and a system outage. My chest feels tight. Meditation app says I should practice deep breathing, but who has the time? The women's leadership group meeting was canceled again – third time this month."
+    },
+    {
+      "date": "2025-01-14",
+      "content": "Had to give negative feedback to a senior engineer today. He didn't take it well. Sometimes being the only woman manager means every decision gets questioned twice. Doubt a male manager would have gotten the same pushback. Feeling drained."
+    },
+    {
+      "date": "2025-01-15",
+      "content": "Progress! The team completed the API integration ahead of schedule. Treated everyone to virtual coffee delivery. These small celebrations matter. Still feeling anxious about tomorrow's board presentation, but trying to focus on today's wins."
+    },
+    {
+      "date": "2025-01-16",
+      "content": "Board presentation went better than expected! But noticed my hands shaking during the Q&A. Need to work on my confidence in these situations. Later, had a great mentoring session with Maria – helping her gives me perspective on my own journey."
+    },
+    {
+      "date": "2025-01-17",
+      "content": "Woke up with a headache. The constant Slack notifications are driving me crazy. Implemented 'Focus Friday' for the team – no meetings after 12 PM. Hope it helps everyone, not just me. Need to practice what I preach about sustainable pace."
+    },
+    {
+      "date": "2025-01-18",
+      "content": "Another Saturday at the laptop. The project deadline is looming and I can feel the pressure building. Had to cancel my therapy appointment again. My neck is killing me from all the screen time. At least the team's doing better with the new work-life boundaries."
+    },
+    {
+      "date": "2025-01-19",
+      "content": "Finally took a real break. Spent the morning at a local café, phone off. Read an actual book! Feeling guilty about the unread emails, but trying to remember that rest is productive too. Called Mom – she noticed I sounded more relaxed."
+    },
+    {
+      "date": "2025-01-20",
+      "content": "The morning started with a crisis – production database issues. Handled it well, though. Maybe I'm getting better at staying calm under pressure? The team really came together. Proud of how we've grown. Still exhausted, but it's a good kind of tired."
+    },
+    {
+      "date": "2025-01-21",
+      "content": "Realized today I've been grinding my teeth again. Stress is definitely getting to me. But also had a breakthrough in my leadership style – letting the team solve problems their way instead of jumping in to fix everything. Progress isn't linear."
+    },
+    {
+      "date": "2025-01-22",
+      "content": "Mixed feelings today. Got praised in the company all-hands for the project's progress, but can't shake the feeling that I'm one misstep away from failure. Decided to finally book that vacation for next month. The team can handle things without me, right?"
+    },
+    {
+      "date": "2025-01-23",
+      "content": "End of sprint review went well. Team's morale is up. Still feeling stretched thin between coding, managing, and mentoring, but maybe that's just part of the job? Made it to yoga class after work – first time in weeks. Need to make this a regular thing again."
+    }
+  ]
+}
