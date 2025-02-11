@@ -98,7 +98,7 @@ const ConvoSim = () => {
     if (!selectedScenario) return;
 
     try {
-      const response = await fetch("http://127.0.0.1:5000/select_scenario", {
+      const response = await fetch("https://ai-22-3.onrender.com/select_scenario", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -123,7 +123,7 @@ const ConvoSim = () => {
       ]);
 
       const startSceneResponse = await fetch(
-        "http://127.0.0.1:5000/start_scene",
+        "https://ai-22-3.onrender.com/start_scene",
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
@@ -163,7 +163,7 @@ const ConvoSim = () => {
     await simulateTyping();
 
     try {
-      const response = await fetch("http://127.0.0.1:5000/chat_scene", {
+      const response = await fetch("https://ai-22-3.onrender.com/chat_scene", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ user_id: "user12345", message: inputText }),
