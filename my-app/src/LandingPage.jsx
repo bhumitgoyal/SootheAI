@@ -16,7 +16,7 @@ const LandingPage = () => {
           <h1 className="text-4xl font-bold text-pink-600">Soothe</h1>
         </div>
         <p className="text-lg text-pink-400">
-          Your Mental Wellness Companion for High-Stress Careers
+          Your Mentally Ill Companion for High-Stress Careers
         </p>
       </header>
 
