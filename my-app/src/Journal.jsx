@@ -14,7 +14,7 @@ const Journal = () => {
     }
 
     try {
-      const response = await fetch("http://127.0.0.1:5000/store_journal", {
+      const response = await fetch("https://ai-22-3.onrender.com/store_journal", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
