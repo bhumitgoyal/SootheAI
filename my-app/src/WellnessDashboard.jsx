@@ -9,7 +9,7 @@ const WellnessDashboard = ({ userId }) => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("http://localhost:5000/analyze_journal", {
+        const response = await fetch("https://ai-22-3.onrender.com/analyze_journal", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
