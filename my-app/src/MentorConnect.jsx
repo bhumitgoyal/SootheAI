@@ -23,7 +23,7 @@ const MentorConnect = () => {
     try {
       // Start the session if we're on the first question
       if (currentStep === 0) {
-        await fetch("http://127.0.0.1:5000/start_mentor", {
+        await fetch("https://ai-22-3.onrender.com/start_mentor", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
@@ -32,7 +32,7 @@ const MentorConnect = () => {
       }
 
       // Send the current response
-      const response = await fetch("http://127.0.0.1:5000/ask_mentor", {
+      const response = await fetch("https://ai-22-3.onrender.com/ask_mentor", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
