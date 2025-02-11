@@ -50,7 +50,7 @@ const TaskPlanner = () => {
     try {
       console.log("Sending request to backend...");
 
-      const response = await fetch("http://localhost:5000/plan-tasks", {
+      const response = await fetch("https://ai-22-3.onrender.com/plan-tasks", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
